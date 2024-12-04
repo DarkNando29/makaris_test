@@ -112,7 +112,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold mb-8">Ready for Your Costa Rican Adventure?</h2>
           <p className="text-xl mb-12 max-w-2xl mx-auto">
-            Contact us now and let's plan your perfect tropical getaway
+            Contact us now and lets plan your perfect tropical getaway
           </p>
           <div className="flex justify-center gap-6 flex-wrap">
             <a
