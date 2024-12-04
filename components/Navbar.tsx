@@ -11,8 +11,8 @@ export default function Navbar() {
               src="https://instagram.fsjo6-1.fna.fbcdn.net/v/t51.2885-19/465130206_1652741162338277_377287711370365234_n.jpg?_nc_ht=instagram.fsjo6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2AF11ryGpHDNJ27UoY6RVDrxOFDS6UEF5n0NAfo30PJxzH_rw-5YeoB3Sicj7i2dCQ8&_nc_ohc=dCUrGWLB-64Q7kNvgHa8s2f&_nc_gid=6c82f4e3434a4bc3b39d5170cff1257b&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AYApcTsaCjpVX__2oPBgWVIktiQYNB9zs09b4sei1XQe9Q&oe=6755AFFE&_nc_sid=7d3ac5"
               alt="Makaris Experiences"
               width={100}
-              height={100}
-          className="object-cover brightness-50"
+              height={25}
+          className="object-cover "
           priority
             />
             <span className="text-xl font-bold text-[#E31E24]">Makaris Experiences</span>
