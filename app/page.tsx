@@ -124,7 +124,7 @@ export default function Home() {
               Chat on WhatsApp
             </a>
             <a
-              href="https://instagram.com/youragency"
+              href="https://www.instagram.com/makaris_experiencesc/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white px-8 py-4 rounded-full flex items-center gap-2 transition-colors"
