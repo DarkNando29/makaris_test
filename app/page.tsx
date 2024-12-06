@@ -9,22 +9,162 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
+import {image1, image2, image3, image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15,image16,image17,image18,image19,image20,image21,image22,image23,image24,image25,image26,image27,image28,image29,image30,image31,image32,image33} from '../assets';
 
 const destinations = [
   {
-    title: "Manuel Antonio",
-    image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec",
+    title: "Rio Celeste",
+    image: image1,
     location: "Puntarenas, Costa Rica",
-    price: "$899",
-    description: "Discover pristine beaches and diverse wildlife in Costa Rica's most popular national park."
+    description: "Tour"
   },
   {
-    title: "Monteverde",
-    image: "https://images.unsplash.com/photo-1591017403286-fd8493524e1e",
-    location: "Puntarenas, Costa Rica",
-    price: "$849",
-    description: "Explore the magical cloud forest and its unique ecosystem."
+    title: "Paddleboard in Arenal Lake",
+    image: image2,
+    description: "Activities"
   },
+  {
+    title: "Naturalist tour",
+    image: image3,
+    description: "Tour"
+  },
+  {
+    title: "Hanging Bridges Mistico Park/Puestes colgantes",
+    image: image4,
+    description: "Tour"
+  },
+  {
+    title: "Hiking/senderismo",
+    image: image5,
+    description: "Activities"
+  },
+  {
+    title: "Bird Sightings",
+    image: image6,
+    description: "Some animals"
+  },
+  {
+    title: "Canopy Tour",
+    image: image7,
+    description: "Activities"
+  },
+  {
+    title: "Snakes",
+    image: image8,
+    description: "Some animals"
+  },
+  {
+    title: "Snakes",
+    image: image9,
+    description: "Some animals"
+  },
+  {
+    title: "Snakes",
+    image: image10,
+    description: "Some animals"
+  },
+  {
+    title: "Monkeys Sightings",
+    image: image11,
+    description: "Activities"
+  },
+  {
+    title: "atv tours",
+    image: image12,
+    description: "Activities"
+  },
+  {
+    title: "Kayaking on Arenal Lake",
+    image: image13,
+    description: "Activities"
+  },
+  {
+    title: "atv tours",
+    image: image14,
+    description: "Activities"
+  },
+  {
+    title: "Slot tours",
+    image: image15,
+    description: "Activities"
+  },
+  {
+    title: "Kayak arenal lake",
+    image: image16,
+    description: "Activities"
+  },
+  {
+    title: "Tucans Sightings",
+    image: image17,
+    description: "Activities"
+  },
+  {
+    title: "Fotos personalizadas",
+    image: image18,
+    description: "Service"
+  },
+  {
+    title: "Arenal Lake",
+    image: image19,
+    description: "Place"
+  },
+  {
+    title: "Private Transportation all over CR",
+    image: image20,
+    description: "Activities"
+  },
+  {
+    title: "Hikes to the Arenal volcano",
+    image: image21,
+    description: "Activities"
+  },
+  {
+    title: "Hikes to the Arenal volcano",
+    image: image22,
+    description: "Activities"
+  },
+  {
+    title: "Ecologic Lake Park-Arenal Volcano",
+    image: image23,
+    description: "Activities"
+  },
+  {
+    title: "Snakes tours",
+    image: image24,
+    description: "Activities"
+  },
+  {
+    title: "Sloth tours",
+    image: image25,
+    description: "Activities"
+  },
+  {
+    title: "Frogs tours",
+    image: image26,
+    description: "Activities"
+  },
+  {
+    title: "Frogs tours",
+    image: image27,
+    description: "Activities"
+  },
+  {
+    title: "Arenal Volcano",
+    image: image28,
+    description: "Activities"
+  },
+  {
+    title: "Canopy",
+    image: image29,
+    description: "Activities"
+  },
+  {
+    title: "Snakes tours",
+    image: image30,
+    description: "Activities"
+  },
+
+
 ];
 
 export default function Home() {
