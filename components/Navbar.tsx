@@ -26,7 +26,7 @@ export default function Navbar() {
             </Link>
             <div className="flex gap-3">
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/+50664785875"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-full flex items-center gap-2 transition-colors"
@@ -35,7 +35,7 @@ export default function Navbar() {
                 WhatsApp
               </a>
               <a
-                href="https://instagram.com/youragency"
+                href="https://www.instagram.com/makaris_experiencesc/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white px-4 py-2 rounded-full flex items-center gap-2 transition-colors"
