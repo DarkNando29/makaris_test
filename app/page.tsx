@@ -116,7 +116,7 @@ export default function Home() {
           </p>
           <div className="flex justify-center gap-6 flex-wrap">
             <a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/+50664785875"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-full flex items-center gap-2 transition-colors"
